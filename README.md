@@ -1,4 +1,4 @@
-# ODriveHardware
+# ODrive Hardware
 This project is all about accuratly driving brushless motors, for cheap. The aim is to make it possible to use inexpensive brushless motors in high performance robotics projects.
 Like this (click for video):
 [![Servo motor control demo](https://img.youtube.com/vi/WT4E5nb3KtY/0.jpg)](https://www.youtube.com/watch?v=WT4E5nb3KtY)
